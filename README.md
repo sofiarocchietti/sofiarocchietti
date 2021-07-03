@@ -12,9 +12,11 @@ Welcome to mi github profile! I am Sofia, a 20 years old Full Stack Developer ðŸ
 
 ## Fodfie
 
+You can search for your favorite recipes and learn more about them! Also you can create new recipes, including an image, summary, instructions and diets. 
+
 Landing page:
 
-[<img src="https://github.com/sofiarocchietti/sofiarocchietti/blob/main/img/Foodfie2.gif"/>]
+[<img src="https://github.com/sofiarocchietti/sofiarocchietti/blob/main/img/Foodfie2.gif"/>](https://github.com/sofiarocchietti/Foodfie) 
 ---
 #### Repository link [here](https://github.com/sofiarocchietti/Foodfie)
 
