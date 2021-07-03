@@ -2,9 +2,18 @@
 
 Welcome to mi github profile! I am Sofia, a 20 years old Full Stack Developer 💻
 
-## Tech Skills
+### Tech Skills
 
 <img src="https://github.com/sofiarocchietti/sofiarocchietti/blob/main/img/logos.png"/>
+
+### Projects 
+
+---
+
+## Fodfie
+<img src="https://github.com/sofiarocchietti/sofiarocchietti/blob/main/img/Foodfie2.gif"/>
+
+
 <!--
 **sofiarocchietti/sofiarocchietti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
