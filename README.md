@@ -11,7 +11,13 @@ Welcome to mi github profile! I am Sofia, a 20 years old Full Stack Developer ðŸ
 ---
 
 ## Fodfie
+
+Landing page:
+
 <img src="https://github.com/sofiarocchietti/sofiarocchietti/blob/main/img/Foodfie2.gif"/>
+---
+#### Repository link [here](https://github.com/sofiarocchietti/Foodfie)
+
 
 
 <!--
