@@ -14,13 +14,13 @@ Welcome to mi github profile! I am Sofia, a 20 years old Full Stack Developer ðŸ
 
 <p align="center">
     <a href="https://www.linkedin.com/in/sofiarocchietti/">
-      <img src='https://github.com/sofiarocchietti/sofiarocchietti/blob/main/img/linkedIn_PNG22.png' alt='linkedin' height='40'>
+      <img src='https://github.com/sofiarocchietti/sofiarocchietti/blob/main/img/linkedIn_PNG22.png' alt='linkedin' height='60'>
     </a>
       <a href="https://github.com/sofiarocchietti">
-      <img src='https://github.com/sofiarocchietti/sofiarocchietti/blob/main/img/github-154-675675.png' alt='github' height='40'>
+      <img src='https://github.com/sofiarocchietti/sofiarocchietti/blob/main/img/github-154-675675.png' alt='github' height='60'>
     </a>
     <a href="https://api.whatsapp.com/send?phone=5493513076936">
-      <img src='https://github.com/sofiarocchietti/sofiarocchietti/blob/main/img/black-and-white-whatsapp-logo-png-clip-art.png' alt='whatsapp' height='40'>
+      <img src='https://github.com/sofiarocchietti/sofiarocchietti/blob/main/img/black-and-white-whatsapp-logo-png-clip-art.png' alt='whatsapp' height='60'>
     </a>
 </p>
 
