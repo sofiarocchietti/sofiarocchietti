@@ -28,7 +28,6 @@ Welcome to mi github profile! I am Sofia, a 20 years old Full Stack Developer ðŸ
 
 ## Projects 
 
----
 
 ### Foodfie
 #### Full Stack Individual Project (JavaScript, React, Redux, NodeJS, Express, PostgresSQL, Sequelize, CSS) 
