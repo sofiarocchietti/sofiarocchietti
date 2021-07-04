@@ -23,6 +23,16 @@ Landing page:
 #### Repository link [here](https://github.com/sofiarocchietti/Foodfie)
 
 
+---
+
+### SOFLIX
+#### Front-End Project (React, CSS) 
+This is a clone from another app you already know 😉. You can watch your favorite movie trailers!
+
+[<img src="https://github.com/sofiarocchietti/sofiarocchietti/blob/main/img/SOFLIX.gif"/>](https://github.com/sofiarocchietti/soflix) 
+---
+#### Repository link [here](https://github.com/sofiarocchietti/soflix)
+#### Deployed project [here](https://soflix.vercel.app/home)
 
 <!--
 **sofiarocchietti/sofiarocchietti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
