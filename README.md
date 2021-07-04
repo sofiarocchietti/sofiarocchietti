@@ -28,7 +28,7 @@ Welcome to mi github profile! I am Sofia, a 20 years old Full Stack Developer ðŸ
 
 ## Projects 
 
-
+---
 ### Foodfie
 #### Full Stack Individual Project (JavaScript, React, Redux, NodeJS, Express, PostgresSQL, Sequelize, CSS) 
 You can search for your favorite recipes and learn more about them! Also you can create new recipes, including an image, summary, instructions and diets. 
@@ -39,7 +39,7 @@ Landing page:
 
 #### Repository link [here](https://github.com/sofiarocchietti/Foodfie)
 
-
+---
 
 ### SOFLIX
 #### Front-End Project (React, CSS) 
