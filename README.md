@@ -40,7 +40,6 @@ Landing page:
 #### Repository link [here](https://github.com/sofiarocchietti/Foodfie)
 
 
----
 
 ### SOFLIX
 #### Front-End Project (React, CSS) 
