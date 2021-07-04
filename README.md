@@ -24,6 +24,8 @@ Welcome to mi github profile! I am Sofia, a 20 years old Full Stack Developer ðŸ
     </a>
 </p>
 
+---
+
 ## Projects 
 
 ---
