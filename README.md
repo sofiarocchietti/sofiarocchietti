@@ -27,7 +27,7 @@ Landing page:
 
 ### SOFLIX
 #### Front-End Project (React, CSS) 
-This is a clone from another app you already know 😉. You can watch your favorite movie trailers!
+This is a clone from another app you already know 😉. You can watch your favorite movies and TV Shows trailers!
 
 [<img src="https://github.com/sofiarocchietti/sofiarocchietti/blob/main/img/SOFLIX.gif"/>](https://github.com/sofiarocchietti/soflix) 
 ---
