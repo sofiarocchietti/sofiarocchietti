@@ -48,7 +48,7 @@ This is a clone from another app you already know 😉. You can watch your favor
 [<img src="https://github.com/sofiarocchietti/sofiarocchietti/blob/main/img/SOFLIX.gif"/>](https://github.com/sofiarocchietti/soflix) 
 
 #### Repository link [here](https://github.com/sofiarocchietti/soflix)
-#### Deployed project [here](https://soflix.vercel.app/home)
+#### Deployed project [here](https://soflix.vercel.app/)
 
 <!--
 **sofiarocchietti/sofiarocchietti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
